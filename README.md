@@ -4,21 +4,21 @@
 
 * Chocolate Cake 
 
-![Chocolate Cake](triple-chocolate-cake-4.jpeg)
+![Chocolate Cake](/images/triple-chocolate-cake-4.jpeg)
 
 * Lemon Cake 
 
-![Lemon Cake](Moist-Lemon-Cake-Recipe-Plated-Cravings-3.jpeg)
+![Lemon Cake](/images/Moist-Lemon-Cake-Recipe-Plated-Cravings-3.jpeg)
 
 * Carrot Cake
 
-![Carrot Cake](carrotcake.jpeg)
+![Carrot Cake](/images/carrotcake.jpeg)
 
 
 * Cheesecake
 
-![Cheesecake](No-Bake-Cheesecake-9.jpeg)
+![Cheesecake](/images/No-Bake-Cheesecake-9.jpeg)
 
 * Strawberry Cake
 
-![Strawberry Cake](Strawberry-Shortcake-Cake-1-1.jpeg)
+![Strawberry Cake](/images/Strawberry-Shortcake-Cake-1-1.jpeg)
