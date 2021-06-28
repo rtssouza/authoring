@@ -25,9 +25,9 @@
 ![Strawberry Cake](/images/Strawberry-Shortcake-Cake-1-1.jpeg)
 
 
-#Do you have a favorite cake
+# Do you have a favorite cake
 
--[X] Yes 
+- [X] Yes 
 
--[ ] No
+- [ ] No
 
