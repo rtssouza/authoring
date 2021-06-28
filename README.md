@@ -3,7 +3,7 @@
 
 ## My Favorite Cakes
 
-* Layered Chocolate Cake 
+* ### Layered Chocolate Cake 
 
 ![Chocolate Cake 1](/images/triple-chocolate-cake-4.jpeg)
 
