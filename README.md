@@ -33,7 +33,7 @@
 
 ## Which cake do you prefer 
 
-- [X] [Chocolate Cake](#Chocolate Cake 1) 🥰
+- [X] [Chocolate Cake](#Chocolate-Cake-1) 🥰
 
 - [ ] [Marzipan Cake](https://www.bettycrocker.com/recipes/marzipan-princess-cake/16ef6b25-955e-417e-926b-3dce452897c7) 🤢
 
