@@ -3,7 +3,7 @@
 
 ## My Favorite Cakes
 
-* Chocolate Cake 
+* Layered Chocolate Cake 
 
 ![Chocolate Cake 1](/images/triple-chocolate-cake-4.jpeg)
 
@@ -33,7 +33,7 @@
 
 ## Which cake do you prefer 
 
-- [X] [Chocolate Cake](#Chocolate-Cake) 🥰
+- [X] [Chocolate Cake](#Layered-Chocolate-Cake) 🥰
 
 - [ ] [Marzipan Cake](https://www.bettycrocker.com/recipes/marzipan-princess-cake/16ef6b25-955e-417e-926b-3dce452897c7) 🤢
 
