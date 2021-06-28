@@ -1,3 +1,4 @@
+
 # My Favorite Things
 
 ## My Favorite Cakes
@@ -22,3 +23,11 @@
 * Strawberry Cake
 
 ![Strawberry Cake](/images/Strawberry-Shortcake-Cake-1-1.jpeg)
+
+
+#Do you have a favorite cake
+
+-[X] Yes 
+
+-[ ] No
+
