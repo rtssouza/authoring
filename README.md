@@ -25,9 +25,17 @@
 ![Strawberry Cake](/images/Strawberry-Shortcake-Cake-1-1.jpeg)
 
 
-# Do you have a favorite cake
+## Do you have a favorite cake
 
 - [X] Yes 
 
 - [ ] No
+
+## Which cake do you prefer
+
+- [X] [Chocolate Cake](#Chocolate-Cake)
+
+- [ ] [Marzipan Cake](https://www.bettycrocker.com/recipes/marzipan-princess-cake/16ef6b25-955e-417e-926b-3dce452897c7)
+
+
 
